@@ -1,5 +1,3 @@
-# DSA Final Requirement (C Language)
-
 This repository contains implementations of fundamental Data Structures and Algorithms written in C.
 
 ### Topics Covered
